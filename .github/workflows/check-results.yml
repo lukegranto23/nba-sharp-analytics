@@ -1,0 +1,35 @@
+name: Check Game Results
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 2am ET (after all games finish)
+  workflow_dispatch:
+
+jobs:
+  check-results:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 pandas
+      
+      - name: Fetch game results
+        run: python scripts/check_results.py
+      
+      - name: Update performance stats
+        run: python scripts/update_performance.py
+      
+      - name: Commit updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/performance.json data/predictions_history.json
+          git commit -m "Auto-update: Performance stats $(date +'%Y-%m-%d')" || exit 0
+          git push
