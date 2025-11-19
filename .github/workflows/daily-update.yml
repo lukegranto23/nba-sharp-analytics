@@ -18,12 +18,12 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 pandas
+          pip install requests
       
       - name: Fetch NBA data
         run: python scripts/fetch_nba_data.py
       
-      - name: Calculate predictions
+      - name: Generate predictions
         run: python scripts/generate_predictions.py
       
       - name: Commit and push updates
@@ -33,3 +33,4 @@ jobs:
           git add data/
           git commit -m "Auto-update: NBA data for $(date +'%Y-%m-%d')" || exit 0
           git push
+
