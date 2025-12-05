@@ -1,57 +1,105 @@
 [
   {
-    "game_id": 18447142,
-    "date": "2025-12-04",
-    "home_team": "Philadelphia 76ers",
-    "away_team": "Golden State Warriors",
-    "prediction": "Philadelphia 76ers",
-    "confidence": 55.0,
-    "ev_percent": 5.0,
-    "models": {
-      "sully_four_factors": 0.55,
-      "net_rating": 0.54,
-      "elo": 0.56,
-      "pythagorean": 0.55,
-      "ensemble": 0.55
-    }
-  },
-  {
-    "game_id": 18447143,
-    "date": "2025-12-04",
-    "home_team": "Washington Wizards",
-    "away_team": "Boston Celtics",
-    "prediction": "Washington Wizards",
-    "confidence": 55.0,
-    "ev_percent": 5.0,
-    "models": {
-      "sully_four_factors": 0.55,
-      "net_rating": 0.54,
-      "elo": 0.56,
-      "pythagorean": 0.55,
-      "ensemble": 0.55
-    }
-  },
-  {
-    "game_id": 18447144,
-    "date": "2025-12-04",
-    "home_team": "Brooklyn Nets",
-    "away_team": "Utah Jazz",
-    "prediction": "Brooklyn Nets",
-    "confidence": 55.0,
-    "ev_percent": 5.0,
-    "models": {
-      "sully_four_factors": 0.55,
-      "net_rating": 0.54,
-      "elo": 0.56,
-      "pythagorean": 0.55,
-      "ensemble": 0.55
-    }
-  },
-  {
-    "game_id": 18447145,
-    "date": "2025-12-04",
-    "home_team": "Toronto Raptors",
+    "game_id": 18447147,
+    "date": "2025-12-05",
+    "home_team": "Boston Celtics",
     "away_team": "Los Angeles Lakers",
+    "prediction": "Boston Celtics",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447148,
+    "date": "2025-12-05",
+    "home_team": "Orlando Magic",
+    "away_team": "Miami Heat",
+    "prediction": "Orlando Magic",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447149,
+    "date": "2025-12-05",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Denver Nuggets",
+    "prediction": "Atlanta Hawks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447150,
+    "date": "2025-12-05",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "San Antonio Spurs",
+    "prediction": "Cleveland Cavaliers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447151,
+    "date": "2025-12-05",
+    "home_team": "Detroit Pistons",
+    "away_team": "Portland Trail Blazers",
+    "prediction": "Detroit Pistons",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447152,
+    "date": "2025-12-05",
+    "home_team": "New York Knicks",
+    "away_team": "Utah Jazz",
+    "prediction": "New York Knicks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447153,
+    "date": "2025-12-05",
+    "home_team": "Toronto Raptors",
+    "away_team": "Charlotte Hornets",
     "prediction": "Toronto Raptors",
     "confidence": 55.0,
     "ev_percent": 5.0,
@@ -64,11 +112,75 @@
     }
   },
   {
-    "game_id": 18447146,
-    "date": "2025-12-04",
-    "home_team": "New Orleans Pelicans",
-    "away_team": "Minnesota Timberwolves",
-    "prediction": "New Orleans Pelicans",
+    "game_id": 18447154,
+    "date": "2025-12-05",
+    "home_team": "Chicago Bulls",
+    "away_team": "Indiana Pacers",
+    "prediction": "Chicago Bulls",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447155,
+    "date": "2025-12-05",
+    "home_team": "Houston Rockets",
+    "away_team": "Phoenix Suns",
+    "prediction": "Houston Rockets",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447156,
+    "date": "2025-12-05",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "LA Clippers",
+    "prediction": "Memphis Grizzlies",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447157,
+    "date": "2025-12-05",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Philadelphia 76ers",
+    "prediction": "Milwaukee Bucks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447158,
+    "date": "2025-12-05",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Dallas Mavericks",
+    "prediction": "Oklahoma City Thunder",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
