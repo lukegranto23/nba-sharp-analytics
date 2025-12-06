@@ -2174,5 +2174,117 @@
       "pythagorean": 0.55,
       "ensemble": 0.55
     }
+  },
+  {
+    "game_id": 18447159,
+    "date": "2025-12-06",
+    "home_team": "Brooklyn Nets",
+    "away_team": "New Orleans Pelicans",
+    "prediction": "Brooklyn Nets",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447160,
+    "date": "2025-12-06",
+    "home_team": "Washington Wizards",
+    "away_team": "Atlanta Hawks",
+    "prediction": "Washington Wizards",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447161,
+    "date": "2025-12-06",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Golden State Warriors",
+    "prediction": "Cleveland Cavaliers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447162,
+    "date": "2025-12-06",
+    "home_team": "Detroit Pistons",
+    "away_team": "Milwaukee Bucks",
+    "prediction": "Detroit Pistons",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447163,
+    "date": "2025-12-06",
+    "home_team": "Miami Heat",
+    "away_team": "Sacramento Kings",
+    "prediction": "Miami Heat",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447164,
+    "date": "2025-12-06",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "LA Clippers",
+    "prediction": "Minnesota Timberwolves",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447165,
+    "date": "2025-12-06",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Houston Rockets",
+    "prediction": "Dallas Mavericks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
   }
 ]
