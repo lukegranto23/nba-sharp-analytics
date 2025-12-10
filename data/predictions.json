@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 20054033,
-    "date": "2025-12-09",
-    "home_team": "Orlando Magic",
-    "away_team": "Miami Heat",
-    "prediction": "Orlando Magic",
+    "game_id": 20054035,
+    "date": "2025-12-10",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Phoenix Suns",
+    "prediction": "Oklahoma City Thunder",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 20054034,
-    "date": "2025-12-09",
-    "home_team": "Toronto Raptors",
-    "away_team": "New York Knicks",
-    "prediction": "Toronto Raptors",
+    "game_id": 20054036,
+    "date": "2025-12-10",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "San Antonio Spurs",
+    "prediction": "Los Angeles Lakers",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {

@@ -1,15 +1,15 @@
 [
   {
-    "id": 20054033,
-    "date": "2025-12-09",
+    "id": 20054035,
+    "date": "2025-12-10",
     "season": 2025,
-    "status": "2025-12-09T23:00:00Z",
+    "status": "2025-12-11T00:30:00Z",
     "period": 0,
     "time": null,
     "postseason": false,
     "home_team_score": 0,
     "visitor_team_score": 0,
-    "datetime": "2025-12-09T23:00:00.000Z",
+    "datetime": "2025-12-11T00:30:00.000Z",
     "home_q1": null,
     "home_q2": null,
     "home_q3": null,
@@ -29,35 +29,35 @@
     "visitor_timeouts_remaining": null,
     "visitor_in_bonus": null,
     "home_team": {
-      "id": 22,
-      "conference": "East",
-      "division": "Southeast",
-      "city": "Orlando",
-      "name": "Magic",
-      "full_name": "Orlando Magic",
-      "abbreviation": "ORL"
+      "id": 21,
+      "conference": "West",
+      "division": "Northwest",
+      "city": "Oklahoma City",
+      "name": "Thunder",
+      "full_name": "Oklahoma City Thunder",
+      "abbreviation": "OKC"
     },
     "visitor_team": {
-      "id": 16,
-      "conference": "East",
-      "division": "Southeast",
-      "city": "Miami",
-      "name": "Heat",
-      "full_name": "Miami Heat",
-      "abbreviation": "MIA"
+      "id": 24,
+      "conference": "West",
+      "division": "Pacific",
+      "city": "Phoenix",
+      "name": "Suns",
+      "full_name": "Phoenix Suns",
+      "abbreviation": "PHX"
     }
   },
   {
-    "id": 20054034,
-    "date": "2025-12-09",
+    "id": 20054036,
+    "date": "2025-12-10",
     "season": 2025,
-    "status": "2025-12-10T01:30:00Z",
+    "status": "2025-12-11T03:00:00Z",
     "period": 0,
     "time": null,
     "postseason": false,
     "home_team_score": 0,
     "visitor_team_score": 0,
-    "datetime": "2025-12-10T01:30:00.000Z",
+    "datetime": "2025-12-11T03:00:00.000Z",
     "home_q1": null,
     "home_q2": null,
     "home_q3": null,
@@ -77,22 +77,22 @@
     "visitor_timeouts_remaining": null,
     "visitor_in_bonus": null,
     "home_team": {
-      "id": 28,
-      "conference": "East",
-      "division": "Atlantic",
-      "city": "Toronto",
-      "name": "Raptors",
-      "full_name": "Toronto Raptors",
-      "abbreviation": "TOR"
+      "id": 14,
+      "conference": "West",
+      "division": "Pacific",
+      "city": "Los Angeles",
+      "name": "Lakers",
+      "full_name": "Los Angeles Lakers",
+      "abbreviation": "LAL"
     },
     "visitor_team": {
-      "id": 20,
-      "conference": "East",
-      "division": "Atlantic",
-      "city": "New York",
-      "name": "Knicks",
-      "full_name": "New York Knicks",
-      "abbreviation": "NYK"
+      "id": 27,
+      "conference": "West",
+      "division": "Southwest",
+      "city": "San Antonio",
+      "name": "Spurs",
+      "full_name": "San Antonio Spurs",
+      "abbreviation": "SAS"
     }
   }
 ]
