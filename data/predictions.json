@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 20054958,
-    "date": "2025-12-11",
-    "home_team": "Houston Rockets",
-    "away_team": "LA Clippers",
-    "prediction": "Houston Rockets",
+    "game_id": 20054962,
+    "date": "2025-12-12",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Chicago Bulls",
+    "prediction": "Charlotte Hornets",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 20054959,
-    "date": "2025-12-11",
-    "home_team": "Milwaukee Bucks",
-    "away_team": "Boston Celtics",
-    "prediction": "Milwaukee Bucks",
+    "game_id": 20054963,
+    "date": "2025-12-12",
+    "home_team": "Detroit Pistons",
+    "away_team": "Atlanta Hawks",
+    "prediction": "Detroit Pistons",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -32,11 +32,11 @@
     }
   },
   {
-    "game_id": 20054960,
-    "date": "2025-12-11",
-    "home_team": "New Orleans Pelicans",
-    "away_team": "Portland Trail Blazers",
-    "prediction": "New Orleans Pelicans",
+    "game_id": 20054964,
+    "date": "2025-12-12",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Indiana Pacers",
+    "prediction": "Philadelphia 76ers",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -48,11 +48,59 @@
     }
   },
   {
-    "game_id": 20054961,
-    "date": "2025-12-11",
-    "home_team": "Sacramento Kings",
-    "away_team": "Denver Nuggets",
-    "prediction": "Sacramento Kings",
+    "game_id": 20054965,
+    "date": "2025-12-12",
+    "home_team": "Washington Wizards",
+    "away_team": "Cleveland Cavaliers",
+    "prediction": "Washington Wizards",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 20054966,
+    "date": "2025-12-12",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Utah Jazz",
+    "prediction": "Memphis Grizzlies",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 20054967,
+    "date": "2025-12-12",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Brooklyn Nets",
+    "prediction": "Dallas Mavericks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 20054968,
+    "date": "2025-12-12",
+    "home_team": "Golden State Warriors",
+    "away_team": "Minnesota Timberwolves",
+    "prediction": "Golden State Warriors",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
