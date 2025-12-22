@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 18447205,
-    "date": "2025-12-21",
-    "home_team": "Atlanta Hawks",
-    "away_team": "Chicago Bulls",
-    "prediction": "Atlanta Hawks",
+    "game_id": 18447211,
+    "date": "2025-12-22",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Charlotte Hornets",
+    "prediction": "Cleveland Cavaliers",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 18447206,
-    "date": "2025-12-21",
-    "home_team": "Brooklyn Nets",
-    "away_team": "Toronto Raptors",
-    "prediction": "Brooklyn Nets",
+    "game_id": 18447212,
+    "date": "2025-12-22",
+    "home_team": "Boston Celtics",
+    "away_team": "Indiana Pacers",
+    "prediction": "Boston Celtics",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -32,11 +32,11 @@
     }
   },
   {
-    "game_id": 18447207,
-    "date": "2025-12-21",
-    "home_team": "New York Knicks",
-    "away_team": "Miami Heat",
-    "prediction": "New York Knicks",
+    "game_id": 18447213,
+    "date": "2025-12-22",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Dallas Mavericks",
+    "prediction": "New Orleans Pelicans",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -48,11 +48,11 @@
     }
   },
   {
-    "game_id": 18447208,
-    "date": "2025-12-21",
-    "home_team": "Washington Wizards",
-    "away_team": "San Antonio Spurs",
-    "prediction": "Washington Wizards",
+    "game_id": 18447214,
+    "date": "2025-12-22",
+    "home_team": "Denver Nuggets",
+    "away_team": "Utah Jazz",
+    "prediction": "Denver Nuggets",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -64,11 +64,11 @@
     }
   },
   {
-    "game_id": 18447209,
-    "date": "2025-12-21",
-    "home_team": "Minnesota Timberwolves",
-    "away_team": "Milwaukee Bucks",
-    "prediction": "Minnesota Timberwolves",
+    "game_id": 18447215,
+    "date": "2025-12-22",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Memphis Grizzlies",
+    "prediction": "Oklahoma City Thunder",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -80,11 +80,27 @@
     }
   },
   {
-    "game_id": 18447210,
-    "date": "2025-12-21",
-    "home_team": "Sacramento Kings",
-    "away_team": "Houston Rockets",
-    "prediction": "Sacramento Kings",
+    "game_id": 18447216,
+    "date": "2025-12-22",
+    "home_team": "Golden State Warriors",
+    "away_team": "Orlando Magic",
+    "prediction": "Golden State Warriors",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447217,
+    "date": "2025-12-22",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Detroit Pistons",
+    "prediction": "Portland Trail Blazers",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
