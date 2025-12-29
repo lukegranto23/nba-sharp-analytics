@@ -4302,5 +4302,181 @@
       "pythagorean": 0.55,
       "ensemble": 0.55
     }
+  },
+  {
+    "game_id": 18447261,
+    "date": "2025-12-29",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Milwaukee Bucks",
+    "prediction": "Charlotte Hornets",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447262,
+    "date": "2025-12-29",
+    "home_team": "Washington Wizards",
+    "away_team": "Phoenix Suns",
+    "prediction": "Washington Wizards",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447263,
+    "date": "2025-12-29",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Golden State Warriors",
+    "prediction": "Brooklyn Nets",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447264,
+    "date": "2025-12-29",
+    "home_team": "Miami Heat",
+    "away_team": "Denver Nuggets",
+    "prediction": "Miami Heat",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447265,
+    "date": "2025-12-29",
+    "home_team": "Toronto Raptors",
+    "away_team": "Orlando Magic",
+    "prediction": "Toronto Raptors",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447266,
+    "date": "2025-12-29",
+    "home_team": "Chicago Bulls",
+    "away_team": "Minnesota Timberwolves",
+    "prediction": "Chicago Bulls",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447267,
+    "date": "2025-12-29",
+    "home_team": "Houston Rockets",
+    "away_team": "Indiana Pacers",
+    "prediction": "Houston Rockets",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447268,
+    "date": "2025-12-29",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "New York Knicks",
+    "prediction": "New Orleans Pelicans",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447269,
+    "date": "2025-12-29",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Atlanta Hawks",
+    "prediction": "Oklahoma City Thunder",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447270,
+    "date": "2025-12-29",
+    "home_team": "San Antonio Spurs",
+    "away_team": "Cleveland Cavaliers",
+    "prediction": "San Antonio Spurs",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447271,
+    "date": "2025-12-29",
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Dallas Mavericks",
+    "prediction": "Portland Trail Blazers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
   }
 ]
