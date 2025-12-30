@@ -4478,5 +4478,69 @@
       "pythagorean": 0.55,
       "ensemble": 0.55
     }
+  },
+  {
+    "game_id": 18447272,
+    "date": "2025-12-30",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Philadelphia 76ers",
+    "prediction": "Memphis Grizzlies",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447273,
+    "date": "2025-12-30",
+    "home_team": "Utah Jazz",
+    "away_team": "Boston Celtics",
+    "prediction": "Utah Jazz",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447274,
+    "date": "2025-12-30",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Detroit Pistons",
+    "prediction": "Los Angeles Lakers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447275,
+    "date": "2025-12-30",
+    "home_team": "LA Clippers",
+    "away_team": "Sacramento Kings",
+    "prediction": "LA Clippers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
   }
 ]
