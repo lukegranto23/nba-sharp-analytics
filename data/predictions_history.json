@@ -9870,5 +9870,53 @@
       "pythagorean": 0.55,
       "ensemble": 0.55
     }
+  },
+  {
+    "game_id": 18447607,
+    "date": "2026-02-12",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Milwaukee Bucks",
+    "prediction": "Oklahoma City Thunder",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447608,
+    "date": "2026-02-12",
+    "home_team": "Utah Jazz",
+    "away_team": "Portland Trail Blazers",
+    "prediction": "Utah Jazz",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447609,
+    "date": "2026-02-12",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Dallas Mavericks",
+    "prediction": "Los Angeles Lakers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
   }
 ]
