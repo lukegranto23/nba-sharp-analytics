@@ -10318,5 +10318,181 @@
       "pythagorean": 0.55,
       "ensemble": 0.55
     }
+  },
+  {
+    "game_id": 18447635,
+    "date": "2026-02-22",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Cleveland Cavaliers",
+    "prediction": "Oklahoma City Thunder",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447636,
+    "date": "2026-02-22",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Brooklyn Nets",
+    "prediction": "Atlanta Hawks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447637,
+    "date": "2026-02-22",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Toronto Raptors",
+    "prediction": "Milwaukee Bucks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447638,
+    "date": "2026-02-22",
+    "home_team": "Golden State Warriors",
+    "away_team": "Denver Nuggets",
+    "prediction": "Golden State Warriors",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447639,
+    "date": "2026-02-22",
+    "home_team": "Indiana Pacers",
+    "away_team": "Dallas Mavericks",
+    "prediction": "Indiana Pacers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447640,
+    "date": "2026-02-22",
+    "home_team": "Washington Wizards",
+    "away_team": "Charlotte Hornets",
+    "prediction": "Washington Wizards",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447641,
+    "date": "2026-02-22",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Boston Celtics",
+    "prediction": "Los Angeles Lakers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447642,
+    "date": "2026-02-22",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Philadelphia 76ers",
+    "prediction": "Minnesota Timberwolves",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447643,
+    "date": "2026-02-22",
+    "home_team": "Chicago Bulls",
+    "away_team": "New York Knicks",
+    "prediction": "Chicago Bulls",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447644,
+    "date": "2026-02-22",
+    "home_team": "Phoenix Suns",
+    "away_team": "Portland Trail Blazers",
+    "prediction": "Phoenix Suns",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447645,
+    "date": "2026-02-22",
+    "home_team": "LA Clippers",
+    "away_team": "Orlando Magic",
+    "prediction": "LA Clippers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
   }
 ]
