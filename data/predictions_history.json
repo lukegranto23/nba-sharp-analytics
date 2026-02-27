@@ -10974,5 +10974,85 @@
       "pythagorean": 0.55,
       "ensemble": 0.55
     }
+  },
+  {
+    "game_id": 18447676,
+    "date": "2026-02-27",
+    "home_team": "Detroit Pistons",
+    "away_team": "Cleveland Cavaliers",
+    "prediction": "Detroit Pistons",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447677,
+    "date": "2026-02-27",
+    "home_team": "Boston Celtics",
+    "away_team": "Brooklyn Nets",
+    "prediction": "Boston Celtics",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447678,
+    "date": "2026-02-27",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "New York Knicks",
+    "prediction": "Milwaukee Bucks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447679,
+    "date": "2026-02-27",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Memphis Grizzlies",
+    "prediction": "Dallas Mavericks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447680,
+    "date": "2026-02-27",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Denver Nuggets",
+    "prediction": "Oklahoma City Thunder",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
   }
 ]
