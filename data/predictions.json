@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 18447676,
-    "date": "2026-02-27",
-    "home_team": "Detroit Pistons",
-    "away_team": "Cleveland Cavaliers",
-    "prediction": "Detroit Pistons",
+    "game_id": 18447681,
+    "date": "2026-02-28",
+    "home_team": "Charlotte Hornets",
+    "away_team": "Portland Trail Blazers",
+    "prediction": "Charlotte Hornets",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 18447677,
-    "date": "2026-02-27",
-    "home_team": "Boston Celtics",
-    "away_team": "Brooklyn Nets",
-    "prediction": "Boston Celtics",
+    "game_id": 18447682,
+    "date": "2026-02-28",
+    "home_team": "Miami Heat",
+    "away_team": "Houston Rockets",
+    "prediction": "Miami Heat",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -32,11 +32,11 @@
     }
   },
   {
-    "game_id": 18447678,
-    "date": "2026-02-27",
-    "home_team": "Milwaukee Bucks",
-    "away_team": "New York Knicks",
-    "prediction": "Milwaukee Bucks",
+    "game_id": 18447683,
+    "date": "2026-02-28",
+    "home_team": "Washington Wizards",
+    "away_team": "Toronto Raptors",
+    "prediction": "Washington Wizards",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -48,11 +48,11 @@
     }
   },
   {
-    "game_id": 18447679,
-    "date": "2026-02-27",
-    "home_team": "Dallas Mavericks",
-    "away_team": "Memphis Grizzlies",
-    "prediction": "Dallas Mavericks",
+    "game_id": 18447684,
+    "date": "2026-02-28",
+    "home_team": "Golden State Warriors",
+    "away_team": "Los Angeles Lakers",
+    "prediction": "Golden State Warriors",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -64,11 +64,11 @@
     }
   },
   {
-    "game_id": 18447680,
-    "date": "2026-02-27",
-    "home_team": "Oklahoma City Thunder",
-    "away_team": "Denver Nuggets",
-    "prediction": "Oklahoma City Thunder",
+    "game_id": 18447685,
+    "date": "2026-02-28",
+    "home_team": "Utah Jazz",
+    "away_team": "New Orleans Pelicans",
+    "prediction": "Utah Jazz",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
