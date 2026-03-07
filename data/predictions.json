@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 18447726,
-    "date": "2026-03-06",
-    "home_team": "Boston Celtics",
-    "away_team": "Dallas Mavericks",
-    "prediction": "Boston Celtics",
+    "game_id": 18447733,
+    "date": "2026-03-07",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Orlando Magic",
+    "prediction": "Minnesota Timberwolves",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 18447727,
-    "date": "2026-03-06",
-    "home_team": "Charlotte Hornets",
-    "away_team": "Miami Heat",
-    "prediction": "Charlotte Hornets",
+    "game_id": 18447734,
+    "date": "2026-03-07",
+    "home_team": "Detroit Pistons",
+    "away_team": "Brooklyn Nets",
+    "prediction": "Detroit Pistons",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -32,11 +32,11 @@
     }
   },
   {
-    "game_id": 18447728,
-    "date": "2026-03-06",
-    "home_team": "Houston Rockets",
-    "away_team": "Portland Trail Blazers",
-    "prediction": "Houston Rockets",
+    "game_id": 18447735,
+    "date": "2026-03-07",
+    "home_team": "Atlanta Hawks",
+    "away_team": "Philadelphia 76ers",
+    "prediction": "Atlanta Hawks",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -48,43 +48,11 @@
     }
   },
   {
-    "game_id": 18447729,
-    "date": "2026-03-06",
-    "home_team": "Denver Nuggets",
-    "away_team": "New York Knicks",
-    "prediction": "Denver Nuggets",
-    "confidence": 55.0,
-    "ev_percent": 5.0,
-    "models": {
-      "sully_four_factors": 0.55,
-      "net_rating": 0.54,
-      "elo": 0.56,
-      "pythagorean": 0.55,
-      "ensemble": 0.55
-    }
-  },
-  {
-    "game_id": 18447730,
-    "date": "2026-03-06",
-    "home_team": "Phoenix Suns",
-    "away_team": "New Orleans Pelicans",
-    "prediction": "Phoenix Suns",
-    "confidence": 55.0,
-    "ev_percent": 5.0,
-    "models": {
-      "sully_four_factors": 0.55,
-      "net_rating": 0.54,
-      "elo": 0.56,
-      "pythagorean": 0.55,
-      "ensemble": 0.55
-    }
-  },
-  {
-    "game_id": 18447731,
-    "date": "2026-03-06",
-    "home_team": "San Antonio Spurs",
+    "game_id": 18447736,
+    "date": "2026-03-07",
+    "home_team": "Memphis Grizzlies",
     "away_team": "LA Clippers",
-    "prediction": "San Antonio Spurs",
+    "prediction": "Memphis Grizzlies",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -96,11 +64,27 @@
     }
   },
   {
-    "game_id": 18447732,
-    "date": "2026-03-06",
-    "home_team": "Los Angeles Lakers",
-    "away_team": "Indiana Pacers",
-    "prediction": "Los Angeles Lakers",
+    "game_id": 18447737,
+    "date": "2026-03-07",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Utah Jazz",
+    "prediction": "Milwaukee Bucks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447738,
+    "date": "2026-03-07",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Golden State Warriors",
+    "prediction": "Oklahoma City Thunder",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
