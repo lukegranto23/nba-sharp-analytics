@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 18447826,
-    "date": "2026-03-19",
-    "home_team": "Charlotte Hornets",
-    "away_team": "Orlando Magic",
-    "prediction": "Charlotte Hornets",
+    "game_id": 18447834,
+    "date": "2026-03-20",
+    "home_team": "Brooklyn Nets",
+    "away_team": "New York Knicks",
+    "prediction": "Brooklyn Nets",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 18447827,
-    "date": "2026-03-19",
-    "home_team": "Washington Wizards",
-    "away_team": "Detroit Pistons",
-    "prediction": "Washington Wizards",
+    "game_id": 18447835,
+    "date": "2026-03-20",
+    "home_team": "Detroit Pistons",
+    "away_team": "Golden State Warriors",
+    "prediction": "Detroit Pistons",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -32,11 +32,11 @@
     }
   },
   {
-    "game_id": 18447828,
-    "date": "2026-03-19",
-    "home_team": "Miami Heat",
-    "away_team": "Los Angeles Lakers",
-    "prediction": "Miami Heat",
+    "game_id": 18447836,
+    "date": "2026-03-20",
+    "home_team": "Houston Rockets",
+    "away_team": "Atlanta Hawks",
+    "prediction": "Houston Rockets",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -48,11 +48,11 @@
     }
   },
   {
-    "game_id": 18447829,
-    "date": "2026-03-19",
-    "home_team": "Chicago Bulls",
-    "away_team": "Cleveland Cavaliers",
-    "prediction": "Chicago Bulls",
+    "game_id": 18447837,
+    "date": "2026-03-20",
+    "home_team": "Memphis Grizzlies",
+    "away_team": "Boston Celtics",
+    "prediction": "Memphis Grizzlies",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -64,11 +64,11 @@
     }
   },
   {
-    "game_id": 18447830,
-    "date": "2026-03-19",
-    "home_team": "New Orleans Pelicans",
-    "away_team": "LA Clippers",
-    "prediction": "New Orleans Pelicans",
+    "game_id": 18447838,
+    "date": "2026-03-20",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Portland Trail Blazers",
+    "prediction": "Minnesota Timberwolves",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -80,43 +80,11 @@
     }
   },
   {
-    "game_id": 18447831,
-    "date": "2026-03-19",
-    "home_team": "San Antonio Spurs",
-    "away_team": "Phoenix Suns",
-    "prediction": "San Antonio Spurs",
-    "confidence": 55.0,
-    "ev_percent": 5.0,
-    "models": {
-      "sully_four_factors": 0.55,
-      "net_rating": 0.54,
-      "elo": 0.56,
-      "pythagorean": 0.55,
-      "ensemble": 0.55
-    }
-  },
-  {
-    "game_id": 18447832,
-    "date": "2026-03-19",
-    "home_team": "Utah Jazz",
-    "away_team": "Milwaukee Bucks",
-    "prediction": "Utah Jazz",
-    "confidence": 55.0,
-    "ev_percent": 5.0,
-    "models": {
-      "sully_four_factors": 0.55,
-      "net_rating": 0.54,
-      "elo": 0.56,
-      "pythagorean": 0.55,
-      "ensemble": 0.55
-    }
-  },
-  {
-    "game_id": 18447833,
-    "date": "2026-03-19",
-    "home_team": "Sacramento Kings",
-    "away_team": "Philadelphia 76ers",
-    "prediction": "Sacramento Kings",
+    "game_id": 18447839,
+    "date": "2026-03-20",
+    "home_team": "Denver Nuggets",
+    "away_team": "Toronto Raptors",
+    "prediction": "Denver Nuggets",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
