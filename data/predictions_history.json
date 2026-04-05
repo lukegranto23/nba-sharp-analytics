@@ -15390,5 +15390,181 @@
       "pythagorean": 0.55,
       "ensemble": 0.55
     }
+  },
+  {
+    "game_id": 18447950,
+    "date": "2026-04-05",
+    "home_team": "Boston Celtics",
+    "away_team": "Toronto Raptors",
+    "prediction": "Boston Celtics",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447951,
+    "date": "2026-04-05",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Washington Wizards",
+    "prediction": "Brooklyn Nets",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447952,
+    "date": "2026-04-05",
+    "home_team": "Chicago Bulls",
+    "away_team": "Phoenix Suns",
+    "prediction": "Chicago Bulls",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447953,
+    "date": "2026-04-05",
+    "home_team": "Milwaukee Bucks",
+    "away_team": "Memphis Grizzlies",
+    "prediction": "Milwaukee Bucks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447954,
+    "date": "2026-04-05",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "Indiana Pacers",
+    "prediction": "Cleveland Cavaliers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447955,
+    "date": "2026-04-05",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "Charlotte Hornets",
+    "prediction": "Minnesota Timberwolves",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447956,
+    "date": "2026-04-05",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Orlando Magic",
+    "prediction": "New Orleans Pelicans",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447957,
+    "date": "2026-04-05",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Utah Jazz",
+    "prediction": "Oklahoma City Thunder",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447958,
+    "date": "2026-04-05",
+    "home_team": "Dallas Mavericks",
+    "away_team": "Los Angeles Lakers",
+    "prediction": "Dallas Mavericks",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447959,
+    "date": "2026-04-05",
+    "home_team": "Sacramento Kings",
+    "away_team": "LA Clippers",
+    "prediction": "Sacramento Kings",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447960,
+    "date": "2026-04-05",
+    "home_team": "Golden State Warriors",
+    "away_team": "Houston Rockets",
+    "prediction": "Golden State Warriors",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
   }
 ]
