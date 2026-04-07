@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 18447961,
-    "date": "2026-04-06",
-    "home_team": "Atlanta Hawks",
-    "away_team": "New York Knicks",
-    "prediction": "Atlanta Hawks",
+    "game_id": 18447966,
+    "date": "2026-04-07",
+    "home_team": "Washington Wizards",
+    "away_team": "Chicago Bulls",
+    "prediction": "Washington Wizards",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 18447962,
-    "date": "2026-04-06",
-    "home_team": "Orlando Magic",
-    "away_team": "Detroit Pistons",
-    "prediction": "Orlando Magic",
+    "game_id": 18447967,
+    "date": "2026-04-07",
+    "home_team": "Boston Celtics",
+    "away_team": "Charlotte Hornets",
+    "prediction": "Boston Celtics",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -32,11 +32,11 @@
     }
   },
   {
-    "game_id": 18447963,
-    "date": "2026-04-06",
-    "home_team": "Memphis Grizzlies",
-    "away_team": "Cleveland Cavaliers",
-    "prediction": "Memphis Grizzlies",
+    "game_id": 18447968,
+    "date": "2026-04-07",
+    "home_team": "Brooklyn Nets",
+    "away_team": "Milwaukee Bucks",
+    "prediction": "Brooklyn Nets",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -48,11 +48,11 @@
     }
   },
   {
-    "game_id": 18447964,
-    "date": "2026-04-06",
-    "home_team": "San Antonio Spurs",
-    "away_team": "Philadelphia 76ers",
-    "prediction": "San Antonio Spurs",
+    "game_id": 18447969,
+    "date": "2026-04-07",
+    "home_team": "Toronto Raptors",
+    "away_team": "Miami Heat",
+    "prediction": "Toronto Raptors",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -64,11 +64,91 @@
     }
   },
   {
-    "game_id": 18447965,
-    "date": "2026-04-06",
-    "home_team": "Denver Nuggets",
-    "away_team": "Portland Trail Blazers",
-    "prediction": "Denver Nuggets",
+    "game_id": 18447970,
+    "date": "2026-04-07",
+    "home_team": "Indiana Pacers",
+    "away_team": "Minnesota Timberwolves",
+    "prediction": "Indiana Pacers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447971,
+    "date": "2026-04-07",
+    "home_team": "New Orleans Pelicans",
+    "away_team": "Utah Jazz",
+    "prediction": "New Orleans Pelicans",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447972,
+    "date": "2026-04-07",
+    "home_team": "Golden State Warriors",
+    "away_team": "Sacramento Kings",
+    "prediction": "Golden State Warriors",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447973,
+    "date": "2026-04-07",
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Oklahoma City Thunder",
+    "prediction": "Los Angeles Lakers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447974,
+    "date": "2026-04-07",
+    "home_team": "LA Clippers",
+    "away_team": "Dallas Mavericks",
+    "prediction": "LA Clippers",
+    "confidence": 55.0,
+    "ev_percent": 5.0,
+    "models": {
+      "sully_four_factors": 0.55,
+      "net_rating": 0.54,
+      "elo": 0.56,
+      "pythagorean": 0.55,
+      "ensemble": 0.55
+    }
+  },
+  {
+    "game_id": 18447975,
+    "date": "2026-04-07",
+    "home_team": "Phoenix Suns",
+    "away_team": "Houston Rockets",
+    "prediction": "Phoenix Suns",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
