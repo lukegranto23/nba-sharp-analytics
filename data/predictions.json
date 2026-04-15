@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 21681576,
-    "date": "2026-04-14",
-    "home_team": "Charlotte Hornets",
-    "away_team": "Miami Heat",
-    "prediction": "Charlotte Hornets",
+    "game_id": 21681577,
+    "date": "2026-04-15",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "Orlando Magic",
+    "prediction": "Philadelphia 76ers",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 21681582,
-    "date": "2026-04-14",
-    "home_team": "Phoenix Suns",
-    "away_team": "Portland Trail Blazers",
-    "prediction": "Phoenix Suns",
+    "game_id": 21681584,
+    "date": "2026-04-15",
+    "home_team": "LA Clippers",
+    "away_team": "Golden State Warriors",
+    "prediction": "LA Clippers",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
