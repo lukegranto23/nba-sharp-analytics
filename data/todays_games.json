@@ -1,16 +1,16 @@
 [
   {
-    "id": 21682000,
-    "date": "2026-05-03",
+    "id": 21707972,
+    "date": "2026-05-04",
     "season": 2025,
-    "status": "2026-05-03T23:30:00Z",
+    "status": "2026-05-05T01:30:00Z",
     "period": 0,
     "time": null,
     "postseason": true,
     "postponed": false,
     "home_team_score": 0,
     "visitor_team_score": 0,
-    "datetime": "2026-05-03T23:30:00.000Z",
+    "datetime": "2026-05-05T01:30:00.000Z",
     "home_q1": null,
     "home_q2": null,
     "home_q3": null,
@@ -31,36 +31,36 @@
     "visitor_in_bonus": null,
     "ist_stage": null,
     "home_team": {
-      "id": 6,
-      "conference": "East",
-      "division": "Central",
-      "city": "Cleveland",
-      "name": "Cavaliers",
-      "full_name": "Cleveland Cavaliers",
-      "abbreviation": "CLE"
+      "id": 27,
+      "conference": "West",
+      "division": "Southwest",
+      "city": "San Antonio",
+      "name": "Spurs",
+      "full_name": "San Antonio Spurs",
+      "abbreviation": "SAS"
     },
     "visitor_team": {
-      "id": 28,
-      "conference": "East",
-      "division": "Atlantic",
-      "city": "Toronto",
-      "name": "Raptors",
-      "full_name": "Toronto Raptors",
-      "abbreviation": "TOR"
+      "id": 18,
+      "conference": "West",
+      "division": "Northwest",
+      "city": "Minnesota",
+      "name": "Timberwolves",
+      "full_name": "Minnesota Timberwolves",
+      "abbreviation": "MIN"
     }
   },
   {
-    "id": 21684819,
-    "date": "2026-05-03",
+    "id": 21708671,
+    "date": "2026-05-04",
     "season": 2025,
-    "status": "2026-05-03T19:30:00Z",
+    "status": "2026-05-05T00:00:00Z",
     "period": 0,
     "time": null,
     "postseason": true,
     "postponed": false,
     "home_team_score": 0,
     "visitor_team_score": 0,
-    "datetime": "2026-05-03T19:30:00.000Z",
+    "datetime": "2026-05-05T00:00:00.000Z",
     "home_q1": null,
     "home_q2": null,
     "home_q3": null,
@@ -81,22 +81,22 @@
     "visitor_in_bonus": null,
     "ist_stage": null,
     "home_team": {
-      "id": 9,
+      "id": 20,
       "conference": "East",
-      "division": "Central",
-      "city": "Detroit",
-      "name": "Pistons",
-      "full_name": "Detroit Pistons",
-      "abbreviation": "DET"
+      "division": "Atlantic",
+      "city": "New York",
+      "name": "Knicks",
+      "full_name": "New York Knicks",
+      "abbreviation": "NYK"
     },
     "visitor_team": {
-      "id": 22,
+      "id": 23,
       "conference": "East",
-      "division": "Southeast",
-      "city": "Orlando",
-      "name": "Magic",
-      "full_name": "Orlando Magic",
-      "abbreviation": "ORL"
+      "division": "Atlantic",
+      "city": "Philadelphia",
+      "name": "76ers",
+      "full_name": "Philadelphia 76ers",
+      "abbreviation": "PHI"
     }
   }
 ]
