@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 21708301,
-    "date": "2026-05-07",
-    "home_team": "Oklahoma City Thunder",
-    "away_team": "Los Angeles Lakers",
-    "prediction": "Oklahoma City Thunder",
+    "game_id": 21707974,
+    "date": "2026-05-08",
+    "home_team": "Minnesota Timberwolves",
+    "away_team": "San Antonio Spurs",
+    "prediction": "Minnesota Timberwolves",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
@@ -16,11 +16,11 @@
     }
   },
   {
-    "game_id": 21709223,
-    "date": "2026-05-07",
-    "home_team": "Detroit Pistons",
-    "away_team": "Cleveland Cavaliers",
-    "prediction": "Detroit Pistons",
+    "game_id": 21708677,
+    "date": "2026-05-08",
+    "home_team": "Philadelphia 76ers",
+    "away_team": "New York Knicks",
+    "prediction": "Philadelphia 76ers",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
