@@ -1,16 +1,16 @@
 [
   {
-    "id": 21707976,
-    "date": "2026-05-12",
+    "id": 21709235,
+    "date": "2026-05-13",
     "season": 2025,
-    "status": "2026-05-13T00:00:00Z",
+    "status": "2026-05-14T00:00:00Z",
     "period": 0,
     "time": null,
     "postseason": true,
     "postponed": false,
     "home_team_score": 0,
     "visitor_team_score": 0,
-    "datetime": "2026-05-13T00:00:00.000Z",
+    "datetime": "2026-05-14T00:00:00.000Z",
     "home_q1": null,
     "home_q2": null,
     "home_q3": null,
@@ -31,22 +31,22 @@
     "visitor_in_bonus": null,
     "ist_stage": null,
     "home_team": {
-      "id": 27,
-      "conference": "West",
-      "division": "Southwest",
-      "city": "San Antonio",
-      "name": "Spurs",
-      "full_name": "San Antonio Spurs",
-      "abbreviation": "SAS"
+      "id": 9,
+      "conference": "East",
+      "division": "Central",
+      "city": "Detroit",
+      "name": "Pistons",
+      "full_name": "Detroit Pistons",
+      "abbreviation": "DET"
     },
     "visitor_team": {
-      "id": 18,
-      "conference": "West",
-      "division": "Northwest",
-      "city": "Minnesota",
-      "name": "Timberwolves",
-      "full_name": "Minnesota Timberwolves",
-      "abbreviation": "MIN"
+      "id": 6,
+      "conference": "East",
+      "division": "Central",
+      "city": "Cleveland",
+      "name": "Cavaliers",
+      "full_name": "Cleveland Cavaliers",
+      "abbreviation": "CLE"
     }
   }
 ]

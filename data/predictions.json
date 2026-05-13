@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 21707976,
-    "date": "2026-05-12",
-    "home_team": "San Antonio Spurs",
-    "away_team": "Minnesota Timberwolves",
-    "prediction": "San Antonio Spurs",
+    "game_id": 21709235,
+    "date": "2026-05-13",
+    "home_team": "Detroit Pistons",
+    "away_team": "Cleveland Cavaliers",
+    "prediction": "Detroit Pistons",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
