@@ -1,16 +1,16 @@
 [
   {
-    "id": 21713529,
-    "date": "2026-05-20",
+    "id": 21713897,
+    "date": "2026-05-21",
     "season": 2025,
-    "status": "2026-05-21T00:30:00Z",
+    "status": "2026-05-22T00:00:00Z",
     "period": 0,
     "time": null,
     "postseason": true,
     "postponed": false,
     "home_team_score": 0,
     "visitor_team_score": 0,
-    "datetime": "2026-05-21T00:30:00.000Z",
+    "datetime": "2026-05-22T00:00:00.000Z",
     "home_q1": null,
     "home_q2": null,
     "home_q3": null,
@@ -31,22 +31,22 @@
     "visitor_in_bonus": null,
     "ist_stage": null,
     "home_team": {
-      "id": 21,
-      "conference": "West",
-      "division": "Northwest",
-      "city": "Oklahoma City",
-      "name": "Thunder",
-      "full_name": "Oklahoma City Thunder",
-      "abbreviation": "OKC"
+      "id": 20,
+      "conference": "East",
+      "division": "Atlantic",
+      "city": "New York",
+      "name": "Knicks",
+      "full_name": "New York Knicks",
+      "abbreviation": "NYK"
     },
     "visitor_team": {
-      "id": 27,
-      "conference": "West",
-      "division": "Southwest",
-      "city": "San Antonio",
-      "name": "Spurs",
-      "full_name": "San Antonio Spurs",
-      "abbreviation": "SAS"
+      "id": 6,
+      "conference": "East",
+      "division": "Central",
+      "city": "Cleveland",
+      "name": "Cavaliers",
+      "full_name": "Cleveland Cavaliers",
+      "abbreviation": "CLE"
     }
   }
 ]
