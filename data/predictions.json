@@ -1,10 +1,10 @@
 [
   {
-    "game_id": 21713531,
-    "date": "2026-05-24",
-    "home_team": "San Antonio Spurs",
-    "away_team": "Oklahoma City Thunder",
-    "prediction": "San Antonio Spurs",
+    "game_id": 21713901,
+    "date": "2026-05-25",
+    "home_team": "Cleveland Cavaliers",
+    "away_team": "New York Knicks",
+    "prediction": "Cleveland Cavaliers",
     "confidence": 55.0,
     "ev_percent": 5.0,
     "models": {
